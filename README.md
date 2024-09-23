@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Viper0112543670
-- 👀 I’m interested in Technology 
-- 🌱 I’m currently learning nothing much
-- 💞️ I’m looking to collaborate on anything weirdo 
+- 👀 interested in Technology 
+
 
 
 <!---
